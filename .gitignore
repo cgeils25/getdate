@@ -1,3 +1,4 @@
 __pycache__
 .DS_Store
 dist/*
+build_and_publish.sh
