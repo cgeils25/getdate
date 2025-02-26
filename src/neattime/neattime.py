@@ -1,4 +1,4 @@
 import datetime
 
-neattime = lambda : str(datetime.datetime.now()).replace(' ', '_').replace(':', '.')
+neattime = lambda : str(datetime.datetime.now()).replace(' ', '_').replace(':', '-').replace('.', '_')
 
