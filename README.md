@@ -4,6 +4,15 @@ This package includes a simple function to create my preferred date-time format 
 
 The date and time are given in the format yyyy-MM-dd_HH-mm-ss_SSSS
 
+I like this format because it's easy to sort, doesn't interfere with file reading/writing by having unusual characters, is easy to understand, and includes milliseconds to prevent concurrent processes from overwriting each other's log files.
+
+## Installation
+
+```bash
+pip install neattime
+```
+
+## Usage
 Example:
 
 ```python
