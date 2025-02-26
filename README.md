@@ -1,4 +1,6 @@
-This is a simple package which includes one function to create my preferred date-time format for log files.
+# getdate
+
+This package includes a simple function to create my preferred date-time format for log files.
 
 Example:
 
