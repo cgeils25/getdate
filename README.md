@@ -1,13 +1,13 @@
-# getdate
+# neattime
 
 This package includes a simple function to create my preferred date-time format for log files.
 
 Example:
 
 ```
-from getdate import getdate
+from neattime import neattime
 
-print(getdate())
+print(neattime())
 ```
 
 output:
@@ -19,9 +19,9 @@ output:
 How I would actually use it:
 
 ```
-from getdate import getdate
+from neattime import neattime
 
-filepath = f'save_directory/log_{getdate()}'
+filepath = f'save_directory/log_{neattime()}'
 
 # some code that saves my logfile
 
