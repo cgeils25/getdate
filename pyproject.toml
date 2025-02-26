@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "getdate"
+version = "0.0.1"
+authors = [
+  { name="Christian Geils", email="christiangeils@outlook.com" },
+]
+maintainers = [
+  { name="Christian Geils", email="christiangeils@outlook.com" },
+]
+description = "A single function to get a nice date-time format"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "add_github_link_here"
+Issues = "add_link_to_issues_page_for_repo_here"
