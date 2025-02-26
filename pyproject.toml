@@ -22,5 +22,5 @@ license = "MIT"
 license-files = ["LICENSE"]
 
 [project.urls]
-Homepage = "https://github.com/cgeils25/getdate"
-Issues = "https://github.com/cgeils25/getdate/issues"
+Homepage = "https://github.com/cgeils25/neattime"
+Issues = "https://github.com/cgeils25/neattime/issues"
