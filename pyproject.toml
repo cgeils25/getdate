@@ -22,5 +22,5 @@ license = "MIT"
 license-files = ["LICENSE"]
 
 [project.urls]
-Homepage = "add_github_link_here"
-Issues = "add_link_to_issues_page_for_repo_here"
+Homepage = "https://github.com/cgeils25/getdate"
+Issues = "https://github.com/cgeils25/getdate/issues"
